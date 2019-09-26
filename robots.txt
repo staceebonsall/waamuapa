@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xekowailia.geemod.com/sitemap.xml
